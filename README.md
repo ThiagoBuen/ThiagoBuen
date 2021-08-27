@@ -39,7 +39,7 @@ I'm Thiago, a Software Developer, Telecommunications' Master Candidate, and, mos
 #### Personal Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoBuen&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Thiago Github Stats" width="430"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBuen&layout=compact&theme=vision-friendly-dark" width="360"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoBuen&layout=compact&theme=vision-friendly-dark&count_private=true" width="360"/>
 </p>
 
 
