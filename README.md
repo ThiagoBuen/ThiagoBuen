@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-I'm Thiago, a Software Developer, Telecommunications' Master Candidate, and, most importantly, an Imaginaut!
+I'm Thiago, a Software Developer, Telecommunications' MSc (and other graduations)...
 
 
 #### The Story So Far...
 
-- ...💻 Working at ICT Labs - Inatel with Future Internet Architectures, Software Defined Networks, and Smart-* Research;
-- ...📚 Learning more about Artificial Intelligence, Python, and Convergent Architectures;
-- ...🎓 Masters' Candidate at INATEL;
-- ...⚡ Interested in the Future :compass:, Space :rocket:, and Technology :robot:! 
+- ...💻 Software Developer at INATEL and a voluteer at ICT Labs - Inatel with Future Internet Architectures, Software Defined Networks, and Smart-* Research;
+- ...📚 Learning more about microservices, backend stuff, Artificial Intelligence, Python, and Convergent Architectures;
+- ...🎓 Telecommunications' Msc, Control and Automation Engineer, and MBA in Technology Manament at INATEL;
+- ...⚡ Interested in the Future :compass:, Space/Astronomy :rocket:, and Technology :robot:! 
 
 
 [![Badge](https://img.shields.io/static/v1?label=&message=Thiago&color=informational&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagodsbueno/)](https://www.linkedin.com/in/thiagodsbueno/)
