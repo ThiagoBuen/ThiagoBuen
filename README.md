@@ -45,7 +45,7 @@ I'm Thiago, a Software Developer, Telecommunications' Master Candidate, and, mos
 
 ---
 
-#### I appreciate you giving me your time today and please feel free to contact me. 
+#### I appreciate the time you spent seeing this silly profile... Please feel free to contact me. 
 
 #### Goodbye Stranger! 	:facepunch:
 
