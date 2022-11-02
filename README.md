@@ -5,7 +5,7 @@ I'm Thiago, a Software Developer, Telecommunications' MSc, and other things...
 
 #### The Story So Far...
 
-- ...💻 Software Developer at INATEL and a voluteer at ICT Labs - Inatel with Future Internet Architectures, Software Defined Networks, and Smart-* Research;
+- ...💻 Software Developer at Inatel and a voluteer at ICT Labs - Inatel with Future Internet Architectures, Software Defined Networks, and Smart-* Research;
 - ...📚 Learning more about microservices, backend stuff, Artificial Intelligence, Python, and Convergent Architectures;
 - ...🎓 Telecommunications' Msc, Control and Automation Engineer, and MBA in Technology Manament at INATEL;
 - ...⚡ Interested in the Future :compass:, Space/Astronomy :rocket:, and Technology :robot:! 
